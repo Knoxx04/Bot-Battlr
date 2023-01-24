@@ -17,7 +17,7 @@ Open the terminal on your computer.
 
 Clone the repo from github using:
 
-git clone https://github.com/JacobMuchori/phase-2-code-challenge-2.git
+git clone git@github.com:Knoxx04/Bot-Battlr.git
 
 Change directory into the repo folder:
 
